@@ -4,6 +4,8 @@
 
 - Install [Packer CLI](https://learn.hashicorp.com/tutorials/packer/get-started-install-cli) >=1.7
 
+- Install Ansible
+
 - Install [Google CLI](https://cloud.google.com/sdk/docs/install#deb)
 
 - Create a new project on GCP
@@ -19,7 +21,6 @@
 - packer validate ami.pkr.hcl
 
 - packer build ami.pkr.hcl
-
 
 ### Creating Service Account for Packer
 
