@@ -54,3 +54,7 @@ $ gcloud services enable compute.googleapis.com
 [Google Service Accounts Docs](https://cloud.google.com/docs/authentication/production)
 
 [Packer Google Cloud Docs](https://www.packer.io/docs/builders/googlecompute)
+
+[GCP Auth in Github Actions](https://github.com/google-github-actions/deploy-cloudrun#credentials)
+
+[Packer Github Actions](https://github.com/marketplace/actions/packer-github-actions)

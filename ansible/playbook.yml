@@ -4,8 +4,8 @@
   become: true
 
   tasks:
-    - name: install Apache
+    - name: Install Nginx
       apt:
-        name: apache2
+        name: nginx
         state: present
         update_cache: yes
