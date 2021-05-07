@@ -1,5 +1,7 @@
 # Packer Template
 
+[![Codeac](https://static.codeac.io/badges/2-364721742.svg "Codeac")](https://app.codeac.io/github/lariskovski/packer-google-cloud-plataform)
+
 > Packer version 1.5.0 introduced support for HCL2 templates as a beta feature. As of version 1.7.0, HCL2 support is no longer in beta and is the **preferred way to write Packer configuration(s)**. - [Hashicorp Docs](https://www.packer.io/guides/hcl/from-json-v1)
 
 - Install [Packer CLI](https://learn.hashicorp.com/tutorials/packer/get-started-install-cli) >=1.7
