@@ -1,0 +1,9 @@
+version: '1'
+
+tools:
+  tflint:
+    files:
+      - packer
+  ansibleLint:
+    files:
+      - ansible/*.yml
